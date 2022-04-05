@@ -1,0 +1,18 @@
+body{
+    background: rgb(0,0,0);
+    background: linear-gradient(90deg, #000000fb 28%, rgb(0, 255, 76) 54%, #000000fb  80%);
+   
+}
+
+nav{
+    background: rgb(0,0,0);
+    background: linear-gradient(90deg, #0000004f 28%, rgb(0, 255, 76) 54%, #000000fb  80%);
+    font-family: 'Boogaloo', cursive;
+    font-size: 50px;
+    
+}   
+.spoty{
+    color: rgb(0, 255, 76)  !important;
+    font-size: 50px;
+}
+ 
